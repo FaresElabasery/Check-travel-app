@@ -19,7 +19,7 @@ just run it and type and city you want and it also supports more than one langua
 or write (now) to know more about your current location
 
 
-![the execution](eexecution.png)
+![the execution](execution.png)
 
 
 
