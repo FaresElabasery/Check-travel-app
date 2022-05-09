@@ -7,6 +7,7 @@
 
 # requirements
  1- pip install requests_html
+ 2-# pip install pyfiglet
  2- basic information in html to get the right class and attribute
 
  # url that used 
@@ -25,3 +26,4 @@ or write (now) to know more about your current location
 
 # more detials of tools 
 1 user agent is any software, acting on behalf of a user, which "retrieves, renders and facilitates end-user interaction with Web content"
+2 pyfiglet is used to create shapes 
