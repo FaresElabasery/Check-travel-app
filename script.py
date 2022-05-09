@@ -5,7 +5,7 @@ from requests_html import HTMLSession
 import pyfiglet as pyg 
 
 # Taking the input text for the default format  
-res= pyg.figlet_format("Welcome to Check Travel App!")   
+res= pyg.figlet_format("Welcome to \nCheck Travel App")   
 # Printing the result in the output  
 print(' Web Scraping With Python ')  
 print(res)  
@@ -64,4 +64,5 @@ else:
 
 
 
+raw=input("Press Enter to continue...")
 
